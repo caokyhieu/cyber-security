@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Covariate Shift Correction for Large-Scale Classification
 
 ---
@@ -205,3 +206,4 @@ python multi_train.py
 ## Contact
 
 If you have questions or suggestions, feel free to open an issue or a pull request.
+=======
